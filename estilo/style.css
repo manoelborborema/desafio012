@@ -41,7 +41,7 @@ header a:hover, footer a:hover{
     text-decoration: underline;
 }
 section{
-    padding-left: 100px;
+    padding-left: 8vh;
     line-height: 2em;
     padding-top: 10vh;
     padding-bottom: 10vh;
